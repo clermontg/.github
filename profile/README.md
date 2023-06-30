@@ -9,8 +9,8 @@ A brief description of your project.
 
 - [Modules](#modules)
   - [Tools](#tools)
-  - [Data Acquisition](#data-acquisition)
   - [Standards](#standards)
+  - [Data Acquisition](#data-acquisition)
 - [License](#license)
 - [Contact](#contact)
 
@@ -44,6 +44,6 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 For any inquiries or feedback, please feel free to reach out to us:
 
 - Email: [dbold@emory.edu](mailto:delgersuren.bold@emory.edu) to get added as user. 
-- Website: [www.chorus4ai.org](https://chorus4ai.org/)
+- Website: [www.bridge2ai.org/chorus](https://bridge2ai.org/chorus/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
