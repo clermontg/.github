@@ -24,14 +24,14 @@ Describe the modules included in your project. Explain the purpose and functiona
 Explain the Tools module of your project. Describe what tools are included, their purpose, and how they can be utilized within your project.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Data Acquisition
-
-Explain the Data Acquisition module of your project. Describe the process of acquiring data, any specific requirements or formats, and any tools or methods used for data acquisition.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ### Standards
 
 Provide information about the Standards module of your project. Explain what standards are being followed, why they are important, and how they are implemented or utilized within your project. Describe any specific standards that your project adheres to and any modifications or considerations made to comply with them.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Data Acquisition
+
+Explain the Data Acquisition module of your project. Describe the process of acquiring data, any specific requirements or formats, and any tools or methods used for data acquisition.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### License
