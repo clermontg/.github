@@ -40,9 +40,7 @@ Describe the modules included in your project. Explain the purpose and functiona
 
 ### Tools
 
-The central objective of this module is to create the CHoRUS dataset, which aims to improve recovery from acute illnesses through AI/ML integration. The dataset is designed to be ethically sourced, diverse, accessible, patient-focused, and AI-ready. The approach involves integrating newly developed and existing AI/ML tools, ensuring they can be readily integrated into the Bridge2AI program data ecosystem.
-
-Key principles and innovations guiding the effort include a cloud-centric design, support for loosely coupled modules, and exposed APIs for integration. The module aims to harmonize, standardize, de-identify, and collect data from CHoRUS sites, providing tools to support the data acquisition process and customization for site-specific workflows.
+The module aims to harmonize, standardize, de-identify, and collect data from CHoRUS sites, providing tools to support the data acquisition process and customization for site-specific workflows. The approach involves integrating newly developed and existing AI/ML tools, ensuring they can be readily integrated into the Bridge2AI program data ecosystem. Key principles and innovations guiding the effort include a cloud-centric design, support for loosely coupled modules, and exposed APIs for integration. 
 
 Research infrastructure and tooling at CHoRUS sites will be elevated through the deployment of tools such as OMOP mapping and physiological data conversion. The focus is on secure and responsible access to the CHoRUS data and tools, with hosting on a cloud-based data platform and integration with the NIH Researcher Auth Service (RAS) for authorized access.
 
@@ -50,10 +48,10 @@ Transparency and reproducibility in AI/ML research are promoted through tools th
 
 The module emphasizes community-based collaborations, including features for streamlined cohort adjudication and data annotation, and modular CHoRUS AI/ML toolboxes that benefit from active community contributions. Integration with PhysioNet is also supported to engage the broader PhysioNet user community.
 
-The CHoRUS dataset and tools are designed to be accessible to users of all levels of AI/ML and clinical knowledge literacy. An integrated viewer (IVe) and canonical AI/ML models for Critical Care use cases are among the tools developed to provide intuitive and informative access to the dataset for users with broad clinical and technical expertise. Additionally, a progressive AI/ML microlearning curriculum series is proposed to support skill and workforce development activities.
+The CHoRUS dataset and tools are designed to be accessible to users of all levels of AI/ML and clinical knowledge literacy. An integrated viewer (IVe) and canonical AI/ML models for Critical Care use cases are among the tools developed to provide intuitive and informative access to the dataset for users with broad clinical and technical expertise.
 
 The current tasks in developments: 
-1. Privacy check
+1. Privacy check 
 2. Clinical NLP
 3. Telemetry Physiology Data Conversion
 4. EEG Physiology Data Conversion
