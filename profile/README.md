@@ -53,7 +53,7 @@ The CHoRUS dataset and tools are designed to be accessible to users of all level
 The current tasks in developments: 
 1. [Privacy check](https://github.com/chorus-ai/ChoRUS_Privacy_Scan) 
 2. [Clinical NLP](https://github.com/chorus-ai/OHNLP4CHoRUS)
-3. [Develop an Integrated viewer - IVe](https://github.com/chorus-ai/IVe)
+3. [Integrated viewer - IVe](https://github.com/chorus-ai/IVe)
 4. [Cohort adjudication and data annotation - CADA](https://github.com/chorus-ai/CADA)
 5. Telemetry Physiology Data Conversion
 6. EEG Physiology Data Conversion
