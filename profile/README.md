@@ -51,18 +51,18 @@ The module emphasizes community-based collaborations, including features for str
 The CHoRUS dataset and tools are designed to be accessible to users of all levels of AI/ML and clinical knowledge literacy. An integrated viewer (IVe) and canonical AI/ML models for Critical Care use cases are among the tools developed to provide intuitive and informative access to the dataset for users with broad clinical and technical expertise.
 
 The current tasks in developments: 
-1. Privacy check 
-2. Clinical NLP
-3. Telemetry Physiology Data Conversion
-4. EEG Physiology Data Conversion
-5. Imaging data conversion
-6. Site-specific practice-pattern metadata
-7. Interpretable Machine Learning Toolbox
-8. Predictive model evaluation
-9. MONAI for critical care
-10. Develop Canonical Notebooks
-11. Develop an Integrated viewer
-12. Cohort adjudication and data annotation
+1. [Privacy check](https://github.com/chorus-ai/ChoRUS_Privacy_Scan) 
+2. [Clinical NLP](https://github.com/chorus-ai/OHNLP4CHoRUS)
+3. [Develop an Integrated viewer - IVe](https://github.com/chorus-ai/IVe)
+4. [Cohort adjudication and data annotation - CADA](https://github.com/chorus-ai/CADA)
+5. Telemetry Physiology Data Conversion
+6. EEG Physiology Data Conversion
+7. Imaging data conversion
+8. Site-specific practice-pattern metadata
+9. Interpretable Machine Learning Toolbox
+10. Predictive model evaluation
+11. MONAI for critical care
+12. Develop Canonical Notebooks
 13. Collaborative workflow
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -86,7 +86,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 For any inquiries or feedback, please feel free to reach out to us:
 
-- Email: [dbold@emory.edu](mailto:delgersuren.bold@emory.edu) 
+- Request access: [dbold@emory.edu](mailto:delgersuren.bold@emory.edu) 
 - Website: [www.bridge2ai.org/chorus](https://bridge2ai.org/chorus/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
