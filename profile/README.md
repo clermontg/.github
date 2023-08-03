@@ -35,12 +35,10 @@ Collaborating with Bridge2AI and 3 other data generation projects, the CHoRUS Ne
 
 ## Modules
 
-Describe the modules included in your project. Explain the purpose and functionality of each module, how they are organized, and how they interact with each other.
+The module aims to harmonize, standardize, de-identify, and collect data from CHoRUS sites, providing tools to support the data acquisition process and customization for site-specific workflows. The approach involves integrating newly developed and existing AI/ML tools, ensuring they can be readily integrated into the Bridge2AI program data ecosystem. Key principles and innovations guiding the effort include a cloud-centric design, support for loosely coupled modules, and exposed APIs for integration.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Tools
-
-The module aims to harmonize, standardize, de-identify, and collect data from CHoRUS sites, providing tools to support the data acquisition process and customization for site-specific workflows. The approach involves integrating newly developed and existing AI/ML tools, ensuring they can be readily integrated into the Bridge2AI program data ecosystem. Key principles and innovations guiding the effort include a cloud-centric design, support for loosely coupled modules, and exposed APIs for integration. 
 
 Research infrastructure and tooling at CHoRUS sites will be elevated through the deployment of tools such as OMOP mapping and physiological data conversion. The focus is on secure and responsible access to the CHoRUS data and tools, with hosting on a cloud-based data platform and integration with the NIH Researcher Auth Service (RAS) for authorized access.
 
