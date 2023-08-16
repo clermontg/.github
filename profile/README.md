@@ -67,7 +67,7 @@ The current tasks in developments:
 
 ### Standards (SM)
 
-Provide information about the Standards module of your project. Explain what standards are being followed, why they are important, and how they are implemented or utilized within your project. Describe any specific standards that your project adheres to and any modifications or considerations made to comply with them.
+To be added
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Data Acquisition (DA)
